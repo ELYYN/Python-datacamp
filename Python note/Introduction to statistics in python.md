@@ -74,7 +74,7 @@ from scipy.stats import iqr
 iqr(msleep['sleep_total'])
 ```
 
-![Boxplot example](1.png)
+![Boxplot example](Images/1.png)
 
 **Example code:**
 ```python

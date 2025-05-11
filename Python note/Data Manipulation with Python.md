@@ -3,7 +3,7 @@
 ```python
 print(chess.columns)
 ```
-**Q2**:![question](2.png)
+**Q2**:![question](Images/2.png)
 ```python
 import matplotlib.pyplot as plt
 import seaborn as sns
